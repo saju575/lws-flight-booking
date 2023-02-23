@@ -1,6 +1,6 @@
 # Flight Booking State Management Using React-redux
 
-## Live Preview [See Preview] (https://lws-flight-booking2.netlify.app/)
+## Live Preview [See Preview](https://lws-flight-booking2.netlify.app/)
 
 ### Functionality
 
